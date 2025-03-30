@@ -1,1 +1,1 @@
-# Gemini-discord-bot---rework
+# Gemini-discord-bot
